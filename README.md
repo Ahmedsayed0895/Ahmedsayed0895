@@ -7,7 +7,7 @@
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 # Hi there, I'm Ahmed Sayed 👋
-###  Software engineer | Moblile Developer 
+###  Software engineer | Mobile developer 
 
 <a href="https://www.linkedin.com/in/ahmedsayed95/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
